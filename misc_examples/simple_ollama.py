@@ -9,3 +9,5 @@ response = ollama.chat(model='gemma3', messages=[
 ])
 
 print(response['message']['content'])
+
+
